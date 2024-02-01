@@ -15,7 +15,7 @@
     
     - ⚡ I have an appreciation for reading, whether delving into a good philosophy book or exploring topics in personal development. Additionally, I enjoy keeping up with current movies and TV series, and I don't deny my enthusiasm for games! I sincerely believe that our personal interests play a vital role in enhancing our understanding of the world and in resolving everyday challenges.
     </details>
-
+##
 <!-- GithubStats -->
 <picture>
   <source
@@ -32,14 +32,3 @@
   />
   <img width= "49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abvieri&layout=compact" />
 </picture>
-
-
-<!-- Portfolio 
-## Portfolio:
-<picture>
-  <img width= "50%" src="https://github-readme-stats.vercel.app/api?username=abvieri&show_icons=true" />
-</picture>
-
-<picture>
-  <img width= "49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abvieri&layout=compact" />
-</picture>-->
