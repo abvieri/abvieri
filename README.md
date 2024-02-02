@@ -19,7 +19,7 @@
 ##
 <!-- GithubStats -->
 <a href="https://github.com/abvieri/github-readme-stats">
-  <img height=200 width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=abvieri&theme=tokyonight"/>
+  <img height=200 width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=abvieri&theme=tokyonight&card_width=320"/>
 </a>
 <a href="https://github.com/abvieri/convoychat">
   <img height=200 width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abvieri&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
