@@ -1,19 +1,19 @@
 <!--Title-->
 <div id=user-content-toc>
   <ul align="center">
-    <summary><h1 style="display: inline-block">Welcome to my profile</h1></summary>
+    <summary><h1 style="display: inline-block">Bem-vindo ao meu perfil</h1></summary>
 </div>
 
 <!-- Presentation -->
-  Hello!👋 I am Abraão Vieri.
-  - 🔭 I'm looking for my first job opportunity. My dream is to one day work as a front-end developer.
-  - 📓 I am currently studying and improving my skills in React
-  - 🎓 Currently, I am trained as a Systems Development Technician.
-  - <details> <summary>👨‍💻 More about me</summary>
+  Olá!👋 Eu sou Abraão Vieri.
+  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como desenvolvedor front-end.
+  - 📓 Atualmente estou estudando e aprimorando minhas habilidades em React.
+  - 🎓 Minha última formação é como Técnico de Desenvolvimento de Sistemas.
+  - <details> <summary>👨‍💻 Mais sobre mim</summary>
     
-    - 💬 At the age of 20, currently residing in Brazil, I strive to improve my English while gaining experience with React.js, Sass, Bootstrap, and design and prototyping tools such as Figma and Photoshop. I am constantly seeking challenges to enhance my skills in the world of front-end development.
+    - 💬 Tenho 20 anos, atualmente residindo em São Paulo, me esforço para aprimorar meu inglês enquanto ganho experiência com React.js, Sass, Bootstrap e ferramentas de design e prototipagem como Figma e Photoshop. Estou constantemente em busca de desafios para aprimorar minhas habilidades no mundo do desenvolvimento front-end.
     
-    - ⚡ I have an appreciation for reading, whether delving into a good philosophy book or exploring topics in personal development. Additionally, I enjoy keeping up with current movies and TV series, and I don't deny my enthusiasm for games! I sincerely believe that our personal interests play a vital role in enhancing our understanding of the world and in resolving everyday challenges.
+    - ⚡ Gosto de ler, seja me aprofundando em um bom livro de filosofia ou explorando temas de desenvolvimento pessoal. Além disso, gosto de acompanhar os filmes e séries de TV atuais e não nego meu entusiasmo por jogos! Acredito sinceramente que os nossos interesses pessoais desempenham um papel vital na melhoria da nossa compreensão do mundo e na resolução dos desafios diários.
     </details>
     
 ##
