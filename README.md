@@ -7,7 +7,7 @@
 <!-- Presentation -->
   Olá!👋 Eu sou Abraão Vieri.
   - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar como desenvolvedor front-end.
-  - 📓 Atualmente estou estudando e aprimorando minhas habilidades em React.
+  - 📓 Atualmente estou me graduando em Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
   - 🎓 Minha última formação é como Técnico de Desenvolvimento de Sistemas.
   - <details> <summary>👨‍💻 Mais sobre mim</summary>
     
