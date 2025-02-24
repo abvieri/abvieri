@@ -11,7 +11,7 @@
   - 🎓 Minha última formação é como Técnico de Desenvolvimento de Sistemas.
   - <details> <summary>👨‍💻 Mais sobre mim</summary>
     
-    - 💬 Tenho 20 anos, atualmente residindo em São Paulo, me esforço para aprimorar meu inglês enquanto ganho experiência com React.js, Sass, Bootstrap e ferramentas de design e prototipagem como Figma e Photoshop. Estou constantemente em busca de desafios para aprimorar minhas habilidades no mundo do desenvolvimento front-end.
+    - 💬 Tenho 21 anos, atualmente residindo em São Paulo, me esforço para aprimorar meu inglês enquanto ganho experiência com React.js, Sass, Bootstrap e ferramentas de design e prototipagem como Figma e Photoshop. Estou constantemente em busca de desafios para aprimorar minhas habilidades no mundo do desenvolvimento front-end.
     
     - ⚡ Gosto de ler, seja me aprofundando em um bom livro de filosofia ou explorando temas de desenvolvimento pessoal. Além disso, gosto de acompanhar os filmes e séries de TV atuais e não nego meu entusiasmo por jogos! Acredito sinceramente que os nossos interesses pessoais desempenham um papel vital na melhoria da nossa compreensão do mundo e na resolução dos desafios diários.
     </details>
