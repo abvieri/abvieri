@@ -6,12 +6,12 @@
 
 <!-- Presentation -->
   Olá!👋 Eu sou Abraão Vieri.
-  - 🔭 Estou em busca da minha primeira oportunidade de trabalho como desenvolvedor Desenvolvedor Web.
-  - 📓 Atualmente estou me graduando em Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
+  - 🔭 Estou em busca de novas oportunidades no mundo de Desenvolvimento Web.
+  - 📓 Atualmente estou me graduando como Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
   - 🎓 Minha última formação é como Técnico de Desenvolvimento de Sistemas.
   - <details> <summary>👨‍💻 Mais sobre mim</summary>
     
-    - 💬 Tenho 21 anos, atualmente residindo em São Paulo, me esforço para aprimorar meu inglês enquanto ganho experiência com React.js, Sass, Bootstrap e ferramentas de design e prototipagem como Figma e Photoshop. Estou constantemente em busca de desafios para aprimorar minhas habilidades no mundo do desenvolvimento front-end.
+    - 💬 Tenho 21 anos, atualmente residindo em São Paulo, me esforço para aprimorar meu inglês enquanto ganho experiência com React.js, Node.js, e ferramentas de automação como n8n e Zapier. Estou constantemente em busca de desafios para aprimorar minhas habilidades no mundo do desenvolvimento e automação.
     
     - ⚡ Gosto de ler, seja me aprofundando em um bom livro de filosofia ou explorando temas de desenvolvimento pessoal. Além disso, gosto de acompanhar os filmes e séries de TV atuais e não nego meu entusiasmo por jogos! Acredito sinceramente que os nossos interesses pessoais desempenham um papel vital na melhoria da nossa compreensão do mundo e na resolução dos desafios diários.
     </details>
