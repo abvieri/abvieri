@@ -1,26 +1,35 @@
-<!--Title-->
-<div id=user-content-toc>
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Bem-vindo ao meu perfil</h1></summary>
-</div>
+# AbraÃ£o Vieri Souza de Oliveira
+**Analista de Dados & AutomaÃ§Ã£o | DataOps na V4 Company**
 
-<!-- Presentation -->
-  Olá!👋 Eu sou Abraão Vieri.
-  - 🔭 Estou em busca de novas oportunidades no mundo de Desenvolvimento Web.
-  - 📓 Atualmente estou me graduando como Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
-  - 🎓 Minha última formação é como Técnico de Desenvolvimento de Sistemas.
-  - <details> <summary>👨‍💻 Mais sobre mim</summary>
-    
-    - 💬 Tenho 21 anos, atualmente residindo em São Paulo, me esforço para aprimorar meu inglês enquanto ganho experiência com React.js, Node.js, e ferramentas de automação como n8n e Make. Estou constantemente em busca de desafios para aprimorar minhas habilidades no mundo do desenvolvimento e automação.
-    
-    - ⚡ Gosto de ler, seja me aprofundando em um bom livro de filosofia ou explorando temas de desenvolvimento pessoal. Além disso, gosto de acompanhar os filmes e séries de TV atuais e não nego meu entusiasmo por jogos! Acredito sinceramente que os nossos interesses pessoais desempenham um papel vital na melhoria da nossa compreensão do mundo e na resolução dos desafios diários.
-    </details>
-    
-##
-<!-- GithubStats -->
-<a href="https://github.com/abvieri/github-readme-stats">
-  <img height=200 width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=abvieri&theme=tokyonight&card_width=320"/>
-</a>
-<a href="https://github.com/abvieri/convoychat">
-  <img height=200 width=49% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abvieri&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
-</a>
+Especialista em otimizaÃ§Ã£o de processos de negÃ³cio atravÃ©s de tecnologia e anÃ¡lise de dados. Atuo na identificaÃ§Ã£o e eliminaÃ§Ã£o de gargalos operacionais, arquitetando soluÃ§Ãµes de baixo custo e alto impacto utilizando ferramentas Open Source e automaÃ§Ã£o para transformar operaÃ§Ãµes manuais em fluxos escalÃ¡veis e auditÃ¡veis.
+
+---
+
+### ðŸ› ï¸ Tecnologias & Habilidades
+
+- **Data & Automation:** n8n (AvanÃ§ado), SQL, Modelagem de Dados, ETL, Supabase.
+- **Development & Scripting:** Python (AutomaÃ§Ã£o e Dados), JavaScript (ES6+), Node.js, React.js.
+- **Tools & Methodology:** BPMN (Mapeamento de Processos), IntegraÃ§Ã£o de APIs REST, Metodologias de EficiÃªncia Financeira (ROI).
+
+---
+
+### ðŸ“Š EstatÃ­sticas
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abvieri&show_icons=true&theme=transparent&hide_border=true&title_color=000&icon_color=000&text_color=333" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abvieri&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=333" />
+</p>
+
+---
+
+### ðŸ“‚ Projetos em Destaque (DataOps & SaaS)
+
+- **[DealFlow](https://github.com/abvieri/DealFlow):** Sistema para montagem e gerenciamento de propostas comerciais em PDF.
+- **[lp-mekanism](https://github.com/abvieri/lp-mekanism):** Landing page de alta conversÃ£o focada em gestÃ£o mobile para oficinas.
+- **[ReimoAPI](https://github.com/abvieri/ReimoAPI):** API desenvolvida em Python para integraÃ§Ã£o e fluxo de dados.
+
+---
+
+### ðŸ“« Contato
+- **LinkedIn:** [/in/abraaovieri](https://www.linkedin.com/in/abraaovieri)
+- **E-mail:** [vieriabraao@gmail.com](mailto:vieriabraao@gmail.com)
